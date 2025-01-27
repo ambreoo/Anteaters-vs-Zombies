@@ -1,4 +1,6 @@
-# This github only has the scripts for the game and the build of the game, not the unity file
+# Anteaters v.s. Zombies
+
+Done by Amber, Amanda, Alexander, Kaleena, and Philip in 2022
  
 Controls Player 1:
 Player movement - WASD
