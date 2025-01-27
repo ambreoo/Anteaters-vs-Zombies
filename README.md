@@ -1,6 +1,7 @@
 # Anteaters v.s. Zombies
 
 Done by Amber, Amanda, Alexander, Kaleena, and Philip in 2022
+(Same repo from Philip's Github, just wanted to keep a copy)
  
 Controls Player 1:
 Player movement - WASD
